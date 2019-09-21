@@ -4,7 +4,7 @@ import java.awt.Color;
 /**
  * Write a description of class Background here.
  * 
- * @author (your name) 
+ * @author Stephen Fan
  * @version (a version number or a date)
  */
 public class Background
